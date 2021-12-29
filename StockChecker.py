@@ -5,6 +5,9 @@ from email.message import EmailMessage
 import time
 from datetime import datetime
 
+# set to run on raspberry pi 
+# can ssh into pi and run from pi user
+# chmod 755
 
 email_sent = 0
 
